@@ -1,0 +1,54 @@
+#app{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active{
+    font-weight: bold;
+}
+
+.btn-danger, .badge-success{
+    background: #F50057;
+}
+
+.card-product{
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.card-img-top{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.btn-link{
+    color: #F50057;
+}
+
+.btn-link:hover{
+    color: #e1004f;
+}
+
+.breadcrumb{
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb-item.active{
+    font-weight: bold;
+    color: black;
+}
+
+.img-fluid{
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.del-keranjang{
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+LANGKAH INSTALASI VUE CLI :
+1. Menjalankan perintah berikut "npm i -g @vue/cli"
+
+LANGKAH UNTUK MENJALANKAN VUE : 
+1. Menggunakan VUE UI untuk menjalankan server vue pada cmd dengan perintah "vue ui"
+
+LANGKAH UNTUK MENJALANKAN SERVER JSONPLACEHOLDER as SERVER :
+1. masuk direktori file tempat data berada misalkan(db.json)
+2. jalan perintah "json-server --watch db.json"
