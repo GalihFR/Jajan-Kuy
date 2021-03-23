@@ -1,4 +1,4 @@
-# learning-vue-fundamental
+# Jajan Kuy 
 
 ## Project setup
 ```
